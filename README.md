@@ -2,7 +2,6 @@
 
 **Lulusan S1 Teknik Informatika** (Universitas Telkom, IPK 3.75) — full-stack developer yang doyan eksperimen: web, computer vision, Chrome extension, dan blockchain.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raditya-hidayat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radityahidayat39@gmail.com)
 
 ---
@@ -57,5 +56,5 @@ Test automation web dashboard internal: Selenium WebDriver + Page Object Model, 
 ## 📬 Kontak
 
 - Email: [radityahidayat39@gmail.com](mailto:radityahidayat39@gmail.com)
-- LinkedIn: [linkedin.com/in/raditya-hidayat](https://www.linkedin.com/in/raditya-hidayat)
+- LinkedIn: profile aktif, URL custom belum dikonfirmasi (cek link di CV)
 - Lokasi: Bekasi, Indonesia
