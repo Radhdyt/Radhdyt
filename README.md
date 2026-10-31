@@ -1,6 +1,6 @@
 # Raditya Hidayat
 
-**Informatics graduate** — Telkom University · GPA 3.75/4.00
+**Informatics graduate**, Telkom University · GPA 3.75/4.00
 
 I build web applications, computer vision systems, and browser automation tools.
 Currently focused on **test automation, full-stack development, and service monitoring**.
@@ -41,8 +41,8 @@ Page Object Model, spanning end-to-end risk-audit workflows from login and risk
 dashboard through risk register, approval summary, and risk-based audit.
 
 Tests ran cross-browser on a **Selenoid grid** backed by Docker, capturing video and
-browser logs per test case. Environment configuration — browser, version, timeout,
-endpoints — was parameterised through `.runsettings`, so the same suite ran against any
+browser logs per test case. Environment configuration (browser, version, timeout,
+endpoints) was parameterised through `.runsettings`, so the same suite ran against any
 environment without code changes. Results were rendered through **ExtentReports** with
 automatic pass/fail screenshots and download-artifact verification against the Selenoid
 REST API.
@@ -57,7 +57,7 @@ REST API.
 Full-stack platform for issuing and verifying training certificates as Soulbound Tokens
 on Polygon, with certificate metadata and images pinned to IPFS. Separate portals for
 admins, assessors, and recipients, plus a public verification page that requires no
-login — turning a forgeable PDF into a non-transferable on-chain credential.
+login, turning a forgeable PDF into a non-transferable on-chain credential.
 
 **[Live demo](https://sertifikat-digital-pelatihan.vercel.app)**
 
