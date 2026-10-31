@@ -51,6 +51,14 @@ REST API.
 
 ## Featured Projects
 
+### [QA Automation Sample](https://github.com/Radhdyt/qa-automation-sample)
+`C#` `NUnit` `Selenium` `ExtentReports`
+
+Complete UI test suite written from scratch: NUnit, Selenium WebDriver, and page objects over a
+public demo storefront. Every environment value arrives through `.runsettings`, so the same build
+runs locally or against a Selenoid grid without recompiling. Nine tests, an Extent report per run,
+screenshots captured on failure, and a GitHub Actions job that publishes both.
+
 ### [Digital Certificate System](https://github.com/Radhdyt/sertifikat-digital-pelatihan)
 `Next.js` `TypeScript` `Supabase` `Solidity` `IPFS`
 
