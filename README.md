@@ -86,7 +86,7 @@ pulling individual session tokens and a DOM storage injector for compatibility w
 apps that keep state outside cookies. All data stays in IndexedDB locally. Logic is
 unit-tested with Jest.
 
-### [Semantic Segmentation](https://github.com/Radhdyt/Semantic-Segmentation-Penutup-Lahan-pada-Citra-Satelit)
+### [Semantic Segmentation](https://github.com/Radhdyt/land-cover-segmentation)
 `Python` `PyTorch` `U-Net`
 
 U-Net implementation for land-cover classification on satellite imagery, built on the
