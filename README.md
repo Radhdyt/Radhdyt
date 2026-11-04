@@ -16,13 +16,13 @@
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
 Informatics graduate building **test automation**, **full-stack web**, and **computer vision** systems. Clean page objects, configuration that lives outside the code, results that can be reproduced by someone else.
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=csharp,dotnet,python,pytorch,ts,js,nextjs,tailwind,supabase,solidity,docker,git,github,linux,vercel,bash&perline=8&theme=dark">
@@ -30,18 +30,18 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
 
 ---
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3 align="center">qa-automation-sample</h3>
       <p align="center">
         <a href="https://github.com/Radhdyt/qa-automation-sample" title="qa-automation-sample"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=qa-automation-sample&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
         <br><sub>C# UI suite &middot; NUnit, Selenium, page objects, Selenoid-ready</sub>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3 align="center">sertifikat-digital-pelatihan</h3>
       <p align="center">
         <a href="https://github.com/Radhdyt/sertifikat-digital-pelatihan" title="sertifikat-digital-pelatihan"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=sertifikat-digital-pelatihan&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
@@ -50,14 +50,14 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3 align="center">SmartWasteBin-AI</h3>
       <p align="center">
         <a href="https://github.com/Radhdyt/SmartWasteBin-AI" title="SmartWasteBin-AI"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=SmartWasteBin-AI&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
         <br><sub>YOLOv8 waste classification on ESP32-CAM, real time</sub>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3 align="center">RC-Session-Manager</h3>
       <p align="center">
         <a href="https://github.com/Radhdyt/RC-Session-Manager" title="RC-Session-Manager"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=RC-Session-Manager&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
@@ -69,7 +69,7 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
 
 ---
 
-## GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
   <picture>
