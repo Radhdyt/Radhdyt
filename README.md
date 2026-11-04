@@ -7,9 +7,11 @@
 
 <p align="center">
   <a href="https://github.com/Radhdyt?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRadhdyt&query=%24.public_repos&logo=github&label=repos&color=58a6ff&style=flat-square"></a>
+  <a href="https://github.com/Radhdyt"><img src="https://img.shields.io/github/followers/Radhdyt?logo=github&style=flat-square&color=58a6ff&label=followers"></a>
+  <img src="https://img.shields.io/github/stars/Radhdyt?logo=github&style=flat-square&color=58a6ff&label=stars">
+  <img src="https://komarev.com/ghpvc/?username=Radhdyt&style=flat-square&color=58a6ff&label=views">
   <a href="https://www.linkedin.com/in/radhid"><img src="https://img.shields.io/badge/LinkedIn-radhid-0A66C2?logo=linkedin&style=flat-square&color=0A66C2&label=linkedin"></a>
   <a href="mailto:radityahidayat39@gmail.com"><img src="https://img.shields.io/badge/Email-radityahidayat39%40gmail.com-EA4335?logo=gmail&style=flat-square&color=EA4335&label=email"></a>
-  <img src="https://img.shields.io/badge/Location-Bekasi%2C%20Indonesia-6E7781?style=flat-square&logo=googlemaps&label=location">
 </p>
 
 ---
@@ -36,14 +38,14 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
       <h3 align="center">qa-automation-sample</h3>
       <p align="center">
         <a href="https://github.com/Radhdyt/qa-automation-sample" title="qa-automation-sample"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=qa-automation-sample&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
-        <br><sub>C# UI suite · NUnit, Selenium, page objects, Selenoid-ready</sub>
+        <br><sub>C# UI suite &middot; NUnit, Selenium, page objects, Selenoid-ready</sub>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">sertifikat-digital-pelatihan</h3>
       <p align="center">
         <a href="https://github.com/Radhdyt/sertifikat-digital-pelatihan" title="sertifikat-digital-pelatihan"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=sertifikat-digital-pelatihan&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
-        <br><sub>Certificates as Soulbound Tokens on Polygon · three portals, IPFS metadata</sub>
+        <br><sub>Certificates as Soulbound Tokens on Polygon &middot; three portals, IPFS metadata</sub>
       </p>
     </td>
   </tr>
@@ -59,7 +61,7 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
       <h3 align="center">RC-Session-Manager</h3>
       <p align="center">
         <a href="https://github.com/Radhdyt/RC-Session-Manager" title="RC-Session-Manager"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=RC-Session-Manager&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
-        <br><sub>Chrome MV3 multi-account sessions · cookies, IndexedDB, Jest</sub>
+        <br><sub>Chrome MV3 multi-account sessions &middot; cookies, IndexedDB, Jest</sub>
       </p>
     </td>
   </tr>
@@ -71,53 +73,26 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6" width="53%">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6" width="53%" alt="github stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6&hide_title=true" width="40%">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=ffffff&text_color=24292f&border_color=d0d7de&border_radius=6&hide_title=true" width="40%" alt="top languages">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-omega-five.vercel.app/graph?username=Radhdyt&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true&radius=6&custom_title=Contribution%20Graph">
+    <img src="https://github-readme-activity-graph-omega-five.vercel.app/graph?username=Radhdyt&theme=github-light&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true&radius=6&custom_title=Contribution%20Graph" width="95%" alt="contribution graph">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Radhdyt&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=8b949e">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Radhdyt&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=57606a" width="55%" alt="streak stats">
-  </picture>
-</p>
-
-<!--
-  STATS CARD, TOP LANGUAGES, ACTIVITY GRAPH
-
-  Ketiga blok ini dimatikan sementara karena instance publiknya sedang tumbang.
-  Hasil tes 3 November 2026:
-    github-readme-stats.vercel.app  -> 503
-    github-readme-activity-graph    -> 402
-
-  Cara mengaktifkan: hapus tanda komentar di bawah ini, lalu cek
-  https://github.com/Radhdyt?tab=overview di jendela penyamaran.
-  Kalau gambarnya rusak, kembalikan jadi komentar lagi.
-
-  Kalau mau permanen dan tidak ikut tumbang, deploy sendiri
-  anuraghazra/github-readme-stats ke Vercel, lalu ganti semua
-  github-readme-stats.vercel.app dengan domain Vercel Anda.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6" width="53%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6" width="53%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6&hide_title=true" width="40%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=ffffff&text_color=24292f&border_color=d0d7de&border_radius=6&hide_title=true" width="40%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Radhdyt&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true&radius=6&custom_title=Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhdyt&theme=github-light&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true&radius=6&custom_title=Contribution%20Graph" width="95%">
-  </picture>
-</p>
--->
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Radhdyt/Radhdyt/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
@@ -169,7 +144,7 @@ building and road edges stay sharp at full resolution, with resumable checkpoint
 
 ### Experience
 
-**Quality Assurance Intern** · PT United Tractors Tbk · Aug 2025
+**Quality Assurance Intern** &middot; PT United Tractors Tbk &middot; Aug 2025
 
 Extended the company's existing .NET test automation framework to cover 6 internal web
 applications. Wrote 64 page objects and around 8,900 lines of C# following the Page
@@ -186,7 +161,17 @@ Selenoid REST API.
 ---
 
 <p align="center">
-  <sub><code>dotnet test</code> · <code>wait for element</code> · <code>select * from logs</code></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Radhdyt/Radhdyt/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub><code>dotnet test</code> &middot; <code>wait for element</code> &middot; <code>select * from logs</code></sub>
 </p>
 
 <p align="center">
