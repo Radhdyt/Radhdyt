@@ -16,13 +16,13 @@
 
 ---
 
-<h2 align="center">About</h2>
+## About
 
 Informatics graduate building **test automation**, **full-stack web**, and **computer vision** systems. Clean page objects, configuration that lives outside the code, results that can be reproduced by someone else.
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=csharp,dotnet,python,pytorch,ts,js,nextjs,tailwind,supabase,solidity,docker,git,github,linux,vercel,bash&perline=8&theme=dark">
@@ -30,9 +30,10 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+## Featured Projects
 
-<table>
+<div align="center">
+<table align="center">
   <tr>
     <td width="50%" align="center">
       <h3 align="center">qa-automation-sample</h3>
@@ -66,10 +67,11 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-<h2 align="center">GitHub Analytics</h2>
+## GitHub Analytics
 
 <p align="center">
   <picture>
