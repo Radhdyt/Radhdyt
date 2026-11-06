@@ -38,14 +38,14 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
     <td width="50%" align="center">
       <h3 align="center">land-cover-segmentation</h3>
       <p align="center">
-        <a href="https://github.com/Radhdyt/land-cover-segmentation" title="land-cover-segmentation"><img src="https://github-readme-stats-seven-lime.vercel.app/api/pin/?username=Radhdyt&repo=land-cover-segmentation&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Radhdyt/land-cover-segmentation" title="land-cover-segmentation"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/pin-land-cover-dark.svg"><img src="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/pin-land-cover-light.svg" width="100%" alt="land-cover-segmentation"></picture></a>
         <br><sub>U-Net land-cover segmentation &middot; PyTorch, sliding-window inference</sub>
       </p>
     </td>
     <td width="50%" align="center">
       <h3 align="center">sertifikat-digital-pelatihan</h3>
       <p align="center">
-        <a href="https://github.com/Radhdyt/sertifikat-digital-pelatihan" title="sertifikat-digital-pelatihan"><img src="https://github-readme-stats-seven-lime.vercel.app/api/pin/?username=Radhdyt&repo=sertifikat-digital-pelatihan&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Radhdyt/sertifikat-digital-pelatihan" title="sertifikat-digital-pelatihan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/pin-sertifikat-dark.svg"><img src="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/pin-sertifikat-light.svg" width="100%" alt="sertifikat-digital-pelatihan"></picture></a>
         <br><sub>Certificates as Soulbound Tokens on Polygon &middot; three portals, IPFS metadata</sub>
       </p>
     </td>
@@ -54,14 +54,14 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
     <td width="50%" align="center">
       <h3 align="center">SmartWasteBin-AI</h3>
       <p align="center">
-        <a href="https://github.com/Radhdyt/SmartWasteBin-AI" title="SmartWasteBin-AI"><img src="https://github-readme-stats-seven-lime.vercel.app/api/pin/?username=Radhdyt&repo=SmartWasteBin-AI&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Radhdyt/SmartWasteBin-AI" title="SmartWasteBin-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/pin-wastebin-dark.svg"><img src="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/pin-wastebin-light.svg" width="100%" alt="SmartWasteBin-AI"></picture></a>
         <br><sub>YOLOv8 waste classification on ESP32-CAM, real time</sub>
       </p>
     </td>
     <td width="50%" align="center">
       <h3 align="center">RC-Session-Manager</h3>
       <p align="center">
-        <a href="https://github.com/Radhdyt/RC-Session-Manager" title="RC-Session-Manager"><img src="https://github-readme-stats-seven-lime.vercel.app/api/pin/?username=Radhdyt&repo=RC-Session-Manager&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Radhdyt/RC-Session-Manager" title="RC-Session-Manager"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/pin-rcsession-dark.svg"><img src="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/pin-rcsession-light.svg" width="100%" alt="RC-Session-Manager"></picture></a>
         <br><sub>Chrome MV3 multi-account sessions &middot; cookies, IndexedDB, Jest</sub>
       </p>
     </td>
@@ -75,12 +75,12 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-lime.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6" width="53%">
-    <img src="https://github-readme-stats-seven-lime.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6" width="53%" alt="github stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/stats-dark.svg" width="53%">
+    <img src="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/stats-light.svg" width="53%" alt="github stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-lime.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6&hide_title=true" width="40%">
-    <img src="https://github-readme-stats-seven-lime.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=ffffff&text_color=24292f&border_color=d0d7de&border_radius=6&hide_title=true" width="40%" alt="top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/top-langs-dark.svg" width="40%">
+    <img src="https://raw.githubusercontent.com/Radhdyt/Radhdyt/main/profile/top-langs-light.svg" width="40%" alt="top languages">
   </picture>
 </p>
 
