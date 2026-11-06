@@ -36,16 +36,16 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h3 align="center">qa-automation-sample</h3>
+      <h3 align="center">land-cover-segmentation</h3>
       <p align="center">
-        <a href="https://github.com/Radhdyt/qa-automation-sample" title="qa-automation-sample"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=qa-automation-sample&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
-        <br><sub>C# UI suite &middot; NUnit, Selenium, page objects, Selenoid-ready</sub>
+        <a href="https://github.com/Radhdyt/land-cover-segmentation" title="land-cover-segmentation"><img src="https://github-readme-stats-seven-lime.vercel.app/api/pin/?username=Radhdyt&repo=land-cover-segmentation&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <br><sub>U-Net land-cover segmentation &middot; PyTorch, sliding-window inference</sub>
       </p>
     </td>
     <td width="50%" align="center">
       <h3 align="center">sertifikat-digital-pelatihan</h3>
       <p align="center">
-        <a href="https://github.com/Radhdyt/sertifikat-digital-pelatihan" title="sertifikat-digital-pelatihan"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=sertifikat-digital-pelatihan&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Radhdyt/sertifikat-digital-pelatihan" title="sertifikat-digital-pelatihan"><img src="https://github-readme-stats-seven-lime.vercel.app/api/pin/?username=Radhdyt&repo=sertifikat-digital-pelatihan&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
         <br><sub>Certificates as Soulbound Tokens on Polygon &middot; three portals, IPFS metadata</sub>
       </p>
     </td>
@@ -54,14 +54,14 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
     <td width="50%" align="center">
       <h3 align="center">SmartWasteBin-AI</h3>
       <p align="center">
-        <a href="https://github.com/Radhdyt/SmartWasteBin-AI" title="SmartWasteBin-AI"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=SmartWasteBin-AI&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Radhdyt/SmartWasteBin-AI" title="SmartWasteBin-AI"><img src="https://github-readme-stats-seven-lime.vercel.app/api/pin/?username=Radhdyt&repo=SmartWasteBin-AI&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
         <br><sub>YOLOv8 waste classification on ESP32-CAM, real time</sub>
       </p>
     </td>
     <td width="50%" align="center">
       <h3 align="center">RC-Session-Manager</h3>
       <p align="center">
-        <a href="https://github.com/Radhdyt/RC-Session-Manager" title="RC-Session-Manager"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Radhdyt&repo=RC-Session-Manager&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Radhdyt/RC-Session-Manager" title="RC-Session-Manager"><img src="https://github-readme-stats-seven-lime.vercel.app/api/pin/?username=Radhdyt&repo=RC-Session-Manager&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
         <br><sub>Chrome MV3 multi-account sessions &middot; cookies, IndexedDB, Jest</sub>
       </p>
     </td>
@@ -75,12 +75,12 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6" width="53%">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6" width="53%" alt="github stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-lime.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6" width="53%">
+    <img src="https://github-readme-stats-seven-lime.vercel.app/api?username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6" width="53%" alt="github stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6&hide_title=true" width="40%">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=ffffff&text_color=24292f&border_color=d0d7de&border_radius=6&hide_title=true" width="40%" alt="top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-seven-lime.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6&hide_title=true" width="40%">
+    <img src="https://github-readme-stats-seven-lime.vercel.app/api/top-langs/?username=Radhdyt&layout=compact&bg_color=ffffff&text_color=24292f&border_color=d0d7de&border_radius=6&hide_title=true" width="40%" alt="top languages">
   </picture>
 </p>
 
@@ -103,13 +103,12 @@ Informatics graduate building **test automation**, **full-stack web**, and **com
 <details>
 <summary>Project details</summary>
 
-### [QA Automation Sample](https://github.com/Radhdyt/qa-automation-sample)
-`C#` `NUnit` `Selenium` `ExtentReports`
+### [Semantic Segmentation](https://github.com/Radhdyt/land-cover-segmentation)
+`Python` `PyTorch` `U-Net`
 
-Complete UI test suite written from scratch over a public demo storefront. Every
-environment value arrives through `.runsettings`, so the same build runs locally or
-against a Selenoid grid without recompiling. Nine tests, an Extent report per run,
-screenshots captured on failure, and a GitHub Actions job that publishes both.
+U-Net implementation for land-cover classification on satellite imagery, built on the
+LandCover.ai dataset. Uses sliding-window patch inference instead of resizing so
+building and road edges stay sharp at full resolution, with resumable checkpointing.
 
 ### [Digital Certificate System](https://github.com/Radhdyt/sertifikat-digital-pelatihan)
 `Next.js` `TypeScript` `Supabase` `Solidity` `IPFS`
@@ -136,13 +135,6 @@ Chrome extension for running multiple accounts side by side. Stores and re-injec
 browser cookies per profile, with a site-aware extractor for individual session tokens
 and a DOM storage injector for apps that keep state outside cookies. All data stays in
 IndexedDB locally. Logic is unit-tested with Jest.
-
-### [Semantic Segmentation](https://github.com/Radhdyt/land-cover-segmentation)
-`Python` `PyTorch` `U-Net`
-
-U-Net implementation for land-cover classification on satellite imagery, built on the
-LandCover.ai dataset. Uses sliding-window patch inference instead of resizing so
-building and road edges stay sharp at full resolution, with resumable checkpointing.
 
 ### Experience
 
