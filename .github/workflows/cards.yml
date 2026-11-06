@@ -1,0 +1,144 @@
+name: update readme cards
+
+on:
+  # refresh daily so the numbers do not go stale
+  schedule:
+    - cron: "0 3 * * *"
+
+  # allows running the job by hand from the Actions tab
+  workflow_dispatch:
+
+# no push trigger on purpose: this job commits to main, and a push
+# trigger would make it rebuild itself in a loop
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v6
+
+      # stats card, both themes so the README <picture> can switch
+      - name: stats dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: profile/stats-dark.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6"
+
+      - name: stats light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: profile/stats-light.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6"
+
+      - name: top languages dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: profile/top-langs-dark.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&layout=compact&hide_title=true&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6"
+
+      - name: top languages light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: profile/top-langs-light.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&layout=compact&hide_title=true&bg_color=ffffff&text_color=24292f&border_color=d0d7de&border_radius=6"
+
+      # pin cards, one pair per featured repository
+      - name: pin land-cover dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: profile/pin-land-cover-dark.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&repo=land-cover-segmentation&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6"
+
+      - name: pin land-cover light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: profile/pin-land-cover-light.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&repo=land-cover-segmentation&show_icons=true&hide_border=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6"
+
+      - name: pin sertifikat dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: profile/pin-sertifikat-dark.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&repo=sertifikat-digital-pelatihan&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6"
+
+      - name: pin sertifikat light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: profile/pin-sertifikat-light.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&repo=sertifikat-digital-pelatihan&show_icons=true&hide_border=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6"
+
+      - name: pin wastebin dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: profile/pin-wastebin-dark.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&repo=SmartWasteBin-AI&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6"
+
+      - name: pin wastebin light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: profile/pin-wastebin-light.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&repo=SmartWasteBin-AI&show_icons=true&hide_border=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6"
+
+      - name: pin rcsession dark
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: profile/pin-rcsession-dark.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&repo=RC-Session-Manager&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6"
+
+      - name: pin rcsession light
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          path: profile/pin-rcsession-light.svg
+          fail_on_error: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: "username=Radhdyt&repo=RC-Session-Manager&show_icons=true&hide_border=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6"
+
+      # only files that actually changed get committed, so a quiet day
+      # produces no commit at all
+      - name: commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "chore: refresh readme cards"
+          git push
